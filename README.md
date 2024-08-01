@@ -1,6 +1,8 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tech stack used: CSS, JS , React JS, Elements like hooks,
+functions involving useEffect, useRef and useCallback(for optimisation) along with Tailwind CSS.
 
 Currently, two official plugins are available:
 
